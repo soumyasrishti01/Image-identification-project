@@ -1,0 +1,39 @@
+body{
+    font-family: 'Zen Loop', cursive;
+    background-color: brown;
+}
+h1{
+    color: white;
+    font-weight: bold;
+    font-size: 75px;
+}
+h1 img{
+    clip-path: circle();
+    width: 100px;
+}
+hr{
+    color: white;
+    width: 100%;
+}
+label{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+h5{
+    color: white;
+    font-size: 20px;
+}
+.bob3{
+    background-color: white;
+    border-radius: 10px;
+}
+.img-responsive{
+    width: 400px;
+}
+span{
+    color: white;
+}
+h4{
+    font-weight: bold;
+}
